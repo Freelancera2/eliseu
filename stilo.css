@@ -1,0 +1,31 @@
+.demo_wrap {
+    
+    overflow: hidden;
+    padding: 28px;
+    border: groove;
+    color: darkcyan;
+    width: 437px;
+    display: flex;
+
+}
+
+.demo_wrap h1 {
+    
+text-align: right;
+text-align: ;    
+text-align: center;
+}
+
+.demo_wrap img {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: auto;
+    opacity: 0.6;
+position: revert;
+}
+
+ 
+    
+    
