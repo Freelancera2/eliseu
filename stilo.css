@@ -8,7 +8,9 @@
     display: flex;
     border-color: darkred;
 background-color: darkmagenta ;
-
+bottom: unset;
+overflow-block: flutuante;
+bottom: max(676%, 654%);
 
 }
 
