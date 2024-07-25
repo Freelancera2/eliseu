@@ -1,5 +1,8 @@
 body{
 background-color: darkmagenta;
+img    {
+    border-radius: 49%;
+}    
 }
 .demo_wrap {
     
