@@ -29,6 +29,30 @@ text-align: center;
     height: auto;
     opacity: 0.6;
 position: revert;
+
+animation-play-state: paused;
+animation-delay: 67575%;
+animation-direction: unset;
+animation-duration: 7867786876s;
+animation-direction: center;
+animation-duration: 99999999999999999999999s;
+animation-timing-function: max(6766s, 7655s);
+animation-name: initial;
+border-color: saddlebrown;
+border-block-end-color: powderblue;
+border-image: space;
+border-image-repeat:repeat;
+border-collapse: separate;
+scroll-margin: initial;
+border-style: dashed;
+image-resolution: from-image;
+image-resolution: 433646%;image-rendering: optimizeSpeed;
+animation-direction: alternate-reverse;
+transition-timing-function: unset;
+animation-direction: var(space);
+animation-direction: var(animation-play-state);
+animation-direction: var(image-resolution);
+animation-direction: var(56467%);
 }
 
  
