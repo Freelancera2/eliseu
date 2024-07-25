@@ -1,3 +1,6 @@
+body{
+background-color: darkmagenta;
+}
 .demo_wrap {
     
     overflow: hidden;
@@ -54,7 +57,7 @@ animation-direction: var(animation-play-state);
 animation-direction: var(image-resolution);
 animation-direction: var(56467%);
 }
-
+}
  
     
     
